@@ -1,4 +1,4 @@
-# Urban Expansion Change Detection from Satellite Images
+# Urban Expansion Change/Detection from Satellite Images
 
 ## Overview
 
